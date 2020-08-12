@@ -29,9 +29,9 @@
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-School Review: https://www.youtube.com/watch?v=Woh6AcCXq0k
-LVL Bitcoin App: https://www.youtube.com/watch?v=kDkeB3pgaLs
-Let's Talk about Bitcoin: https://www.youtube.com/watch?v=2m9ebflaofc&t=13s
+-School Review: https://www.youtube.com/watch?v=Woh6AcCXq0k
+-LVL Bitcoin App: https://www.youtube.com/watch?v=kDkeB3pgaLs
+-Let's Talk about Bitcoin: https://www.youtube.com/watch?v=2m9ebflaofc&t=13s
 <!-- YOUTUBE:END -->
 
 [website]: https://www.linkedin.com/in/jiri-adam-a28327190/
