@@ -1,6 +1,6 @@
 ### Hi there, I'm Jiri - aka [9th.era][website] 👋
 
-## I'm a Student, Bitcoin Maximalist 🤣, and Blockchain Developer!
+## I'm a Student, Bitcoin Maximalist 🤣  and Blockchain Developer!
 - 🔭 I’m currently working on a [Zero to Blockchain Program][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmers and creators of all sorts
