@@ -33,8 +33,8 @@
 
 
 
-[website]: https://www.linkedin.com/in/jiri-adam-a28327190/
+[website]: https://jiriadam.com/
 [twitter]: https://twitter.com/JiriAJr
 [youtube]: https://www.youtube.com/channel/UCFjOW2zcQyGILCfKVuy1iVA
-[instagram]: https://www.instagram.com/jiriadamj/
+[instagram]: https://www.instagram.com/cryptojiri/
 [linkedin]: https://www.linkedin.com/in/jiri-adam-a28327190/
