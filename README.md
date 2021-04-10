@@ -28,8 +28,10 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Solidity" width="26px" src="https://banner2.cleanpng.com/20190726/kfh/kisspng-solidity-smart-contract-programming-language-ether-blockchain-development-bearplex-5d3afdfeca75f8.3709799715641471988293.jpg" />
-<img align="left" alt="Haskell" width="26px" src="https://www.pngfind.com/pngs/m/75-754994_51122664-lambda-haskell-hd-png-download.png" />\
+<img align="left" alt="Haskell" width="26px" src="https://www.pngfind.com/pngs/m/75-754994_51122664-lambda-haskell-hd-png-download.png" />
 <img align="left" alt="Firebase" width="26px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" />
+<img align="left" alt="Plutus" width="26px" src="https://cardano-universe.com/wp-content/uploads/2018/12/Capture-d%E2%80%99e%CC%81cran-2018-12-15-a%CC%80-17.29.31.png" />
+
 
 <br />
 <br />
