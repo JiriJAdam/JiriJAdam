@@ -31,7 +31,7 @@
 <img align="left" alt="Haskell" width="26px" src="https://www.pngfind.com/pngs/m/75-754994_51122664-lambda-haskell-hd-png-download.png" />
 <img align="left" alt="Firebase" width="26px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" />
 <img align="left" alt="Plutus" width="26px" src="https://cardano-universe.com/wp-content/uploads/2018/12/Capture-d%E2%80%99e%CC%81cran-2018-12-15-a%CC%80-17.29.31.png" />
-
+<img align="left" alt="Cardano-CLI" width="26px" src="https://cdn4.iconfinder.com/data/icons/crypto-currency-and-coin-2/256/cardano_ada-512.png" />
 
 <br />
 <br />
