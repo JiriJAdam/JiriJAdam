@@ -1,7 +1,7 @@
 ### Hi there, I'm Jiri - aka [CryptoJiri][website] 👋
 
 ## I'm a Student, Bitcoin Maximalist 🤣  and Blockchain Developer!
-- 🔭 I’m currently working on a [Blockcain Developer Bootcamp][website]!
+- 🔭 I’m currently working on a [Blockchain Developer Bootcamp][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmers and creators of all sorts
 - 🥅 2021 Goals: Contribute more to Open Source projects
