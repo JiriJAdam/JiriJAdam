@@ -27,7 +27,9 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Solidity" width="26px" src="https://w7.pngwing.com/pngs/895/275/png-transparent-solidity-ethereum-smart-contract-blockchain-cryptocurrency-blockchain-angle-triangle-logo.png" />
+<img align="left" alt="Solidity" width="26px" src="https://banner2.cleanpng.com/20190726/kfh/kisspng-solidity-smart-contract-programming-language-ether-blockchain-development-bearplex-5d3afdfeca75f8.3709799715641471988293.jpg" />
+<img align="left" alt="Haskell" width="26px" src="https://www.pngfind.com/pngs/m/75-754994_51122664-lambda-haskell-hd-png-download.png" />\
+<img align="left" alt="Firebase" width="26px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" />
 
 <br />
 <br />
