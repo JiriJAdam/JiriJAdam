@@ -1,11 +1,11 @@
 ### Hi there, I'm Jiri - aka [CryptoJiri][website] 👋
 
 ## I'm a Student, Bitcoin Maximalist 🤣  and Blockchain Developer!
-- 🔭 I’m currently working on a [Full Stack Development Degree][website]!
+- 🔭 I’m currently working on a [Blockcain Developer Bootcamp][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmers and creators of all sorts
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to trade crypto, photography, and cars
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to trade crypto, coding, and cars
 
 ### Connect with me:
 
